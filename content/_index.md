@@ -57,23 +57,23 @@ sections:
       items:
         - certificate_url: https://coursera.org/share/11cd879c3414dff908bac72c6f9aeddd
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-06-25'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Deep Learning specialization
           url: ''
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://coursera.org/share/756671a72e163b9edb4109bfe86cb77e
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-03-25'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Natural Language Processing
           url: ''
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://coursera.org/share/b5d08e53aa7755abb968cf1bb0288547
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-01-25'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
