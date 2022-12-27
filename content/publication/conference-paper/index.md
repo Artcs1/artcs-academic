@@ -75,6 +75,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
+---
+
 title: 'An example conference paper'
 
 # Authors
