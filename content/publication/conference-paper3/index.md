@@ -46,7 +46,7 @@ featured: true
 url_pdf: ''
 url_code: 'https://github.com/Artcs1/DL_curriculas'
 url_dataset: 'https://github.com/Artcs1/DL_curriculas'
-url_poster: ''
+url_poster: 'https://github.com/Artcs1/artcs-academic/blob/main/content/publication/conference-paper3/conference-poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
