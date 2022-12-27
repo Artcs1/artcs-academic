@@ -26,7 +26,7 @@ sections:
       items:
         - title: Research Assistant
           company: Federal University Of Rio Grande do Sul
-          company_url: ''
+          company_url: 'https://www.inf.ufrgs.br/site/'
           company_logo: org-x
           location: Brazil
           date_start: '2020-01-01'
