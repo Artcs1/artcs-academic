@@ -12,11 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-        interests:
-          - Artificial Intelligence
-          - Computational Linguistics
-          - Information Retrieval
-
   - block: experience
     content:
       title: Experience
