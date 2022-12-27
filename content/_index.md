@@ -32,6 +32,14 @@ sections:
           date_start: '2020-01-01'
           date_end: ''
           description: Research in object detection and spherical images.
+        - title: Research Assistant
+          company: Federal University Of Rio Grande do Sul
+          company_url: 'https://www.inf.ufrgs.br/site/'
+          company_logo: org-x
+          location: Brazil
+          date_start: '2020-01-01'
+          date_end: ''
+          description: Research in object detection and spherical images.
     design:
       columns: '2'
   - block: accomplishments
