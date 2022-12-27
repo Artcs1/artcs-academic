@@ -32,13 +32,13 @@ sections:
           date_start: '2020-01-01'
           date_end: ''
           description: Research in object detection and spherical images.
-        - title: Research Assistant
-          company: Federal University Of Rio Grande do Sul
-          company_url: 'https://www.inf.ufrgs.br/site/'
+        - title: Volunteer
+          company: HackSpace
+          company_url: 'https://hackspace.pe/'
           company_logo: org-x
-          location: Brazil
-          date_start: '2020-01-01'
-          date_end: ''
+          location: Peru
+          date_start: '2017-01-01'
+          date_end: '2018-01-01'
           description: Research in object detection and spherical images.
     design:
       columns: '2'
