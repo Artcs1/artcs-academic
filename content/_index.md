@@ -55,13 +55,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://coursera.org/share/11cd879c3414dff908bac72c6f9aeddd
           date_end: ''
           date_start: '2021-01-25'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Deep Learning specialization
           url: ''
         - certificate_url: https://www.coursera.org
           date_end: ''
@@ -69,7 +69,7 @@ sections:
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Natural Language Processing
           url: ''
         - certificate_url: https://www.coursera.org
           date_end: ''
@@ -77,7 +77,7 @@ sections:
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Machine Learning
           url: ''
     design:
       columns: '2'
