@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Artcs - Academic # Website name
+title: Jeffri Murrugarra # Website name
 baseURL: 'https://artcs.netlify.app/' # Website URL
 
 ############################
