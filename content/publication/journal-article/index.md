@@ -1,12 +1,11 @@
 ---
-title: "An example journal article"
+title: "3D Scene Geometry Estimation from 360° Imagery: A Survey"
 authors:
+- Thiago L. T. da Silveir
+- Paulo G. L. Pinto
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Cláudio R. Jung
+date: "2023-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
