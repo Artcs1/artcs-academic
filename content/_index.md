@@ -236,14 +236,13 @@ sections:
       subtitle:
       text: |-
       email: ju.jeffri.v@gmail.com
-      appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: TBD
+        city: TBD
+        region: TBD
+        postcode: TBD
+        country: TBD
+        country_code: TBD
     design:
       columns: '2'
 ---
