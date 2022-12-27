@@ -103,13 +103,6 @@ sections:
       subtitle:
       text: |-
       email: ju.jeffri.v@gmail.com
-      address:
-        street: TBD
-        city: TBD
-        region: TBD
-        postcode: TBD
-        country: TBD
-        country_code: TBD
     design:
       columns: '2'
 ---
