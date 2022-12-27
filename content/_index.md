@@ -11,7 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: I am researcher with interest in 2D-3D object detection, spherical images and natural language processing. I got my master's degree at [Federal University of Rio Grande do Sul](http://www.ufrgs.br/english/home).
+      text: I am researcher with interest in 2D-3D object detection, spherical images and natural language processing. I received my Master from [Institute of Informatics](https://www.inf.ufrgs.br/ppgc/) at the [Federal University of Rio Grande do Sul](http://www.ufrgs.br/english/home). My advisor was Prof. [Claudio Rosito Jung](https://www.inf.ufrgs.br/~crjung/). I mainly worked  
   - block: experience
     content:
       title: Experience
