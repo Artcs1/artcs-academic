@@ -39,7 +39,7 @@ sections:
           location: Peru
           date_start: '2017-01-01'
           date_end: '2018-01-01'
-          description: Research in object detection and spherical images.
+          description: Volunteer.
     design:
       columns: '2'
   - block: accomplishments
