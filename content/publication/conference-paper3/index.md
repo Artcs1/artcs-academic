@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.776.pdf'
 url_code: 'https://github.com/Artcs1/DL_curriculas'
 url_dataset: 'https://github.com/Artcs1/DL_curriculas'
 url_poster: 'https://github.com/Artcs1/artcs-academic/raw/main/content/publication/conference-paper3/conference-poster.pdf'
